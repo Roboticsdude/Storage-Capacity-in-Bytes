@@ -1,8 +1,5 @@
-//
-//  main.cpp
-//  Test_Helolite
-//
-//  Created by Claudio Caldarescu on 3/3/17.
+
+//  Created by Claude Caldarescu on 3/19/17.
 //  Copyright © 2017 Claudio Caldarescu. All rights reserved.
 //
 
